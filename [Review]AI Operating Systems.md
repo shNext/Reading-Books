@@ -10,3 +10,16 @@ Absence of PIM in this Book <br/>
 LLM OS <br/>
 Other Critical Thinking <br/>
 </p>
+
+just in my thought this book rougly covers how to utilize various AI technology in operating system domain. <br/>
+I think a lot of content of this book is filled with author's insight. <br/>
+keyword list up to chapter 14. <br/>
+
+<p>
+traditional operating system and AI-native operating system <br/>
+kernel level intelligence <br/>
+intel TDX, AMD SEV-SNP <br/>
+privacy preserving/enhancing Technique <br/>
+edge AI <br/>
+autosar platform <br/>
+</p>
