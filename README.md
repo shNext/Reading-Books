@@ -22,3 +22,12 @@ although I don't have a experience to develop a compiler from scratch, I think C
 so, my next topic is a book about the Rust Compiler. <br/>
 
 Title : Mastering the Rust Compiler by Eron Valdric. <br/>
+
+## Next Topics
+
+Reading these topic books in intro/guide level books.
+
+<p>
+nano/micro bot <br/>
+wireless power transfer
+</p>
