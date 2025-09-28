@@ -25,7 +25,9 @@ Title : Mastering the Rust Compiler by Eron Valdric. <br/>
 
 ## Next Topics
 
-Reading these topic books in intro/guide level books.
+Reading these topic in intro/guide level books. <br/>
+Some issues occured yesterday and I think it is related with this topics if it is perfect and flawless. <br/>
+I wouldn't deep dive into the concept/principle. 
 
 <p>
 nano/micro bot <br/>
