@@ -31,5 +31,6 @@ I wouldn't deep dive into the concept/principle.
 
 <p>
 nano/micro bot <br/>
-wireless power transfer
+wireless power transfer <br/>
+gene editing and brain wave <br/>
 </p>
