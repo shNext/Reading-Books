@@ -1,6 +1,9 @@
 # Reading-Books
 Just for fun <br/>
 
+I think that because of SW activity/project I have to upload review file for this activity every weekend starting next week. <br/>
+sorry late, and no matter what, I will do this. ✨
+
 # Contents of This
 
 [Operating System](#operating-system) <br/>
