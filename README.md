@@ -33,7 +33,7 @@ Some issues occured yesterday and I think it is related with this topics if it i
 I wouldn't deep dive into the concept/principle. 
 
 <p>
-nano/micro bot <br/>
-wireless power transfer <br/>
+nano/micro bot -> this topic will be expanded to the its usage with the specific purpose. <br/>
+wireless power transfer -> this will be changed to the electromagnetic field and sound. <br/>
 gene editing and brain wave <br/>
 </p>
