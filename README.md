@@ -17,6 +17,9 @@ After reading the book, I'd like to write/share a review. <br/>
 
 Title : AI Operating Systems by H. Peter Alesso. <br/>
 
+a new book has arrived. <br/>
+Title : Linux System Internals for Software Engineers by Earl Wright. <br/>
+
 # Compiler
 
 To me, Compiler is a flower. <br/>
@@ -25,6 +28,9 @@ although I don't have a experience to develop a compiler from scratch, I think C
 so, my next topic is a book about the Rust Compiler. <br/>
 
 Title : Mastering the Rust Compiler by Eron Valdric. <br/>
+
+and then <br/>
+Title : Essential LLVM Code Architecture by Kepler Publishing , Ethan Kessler.
 
 ## Next Topics
 
