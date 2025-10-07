@@ -23,3 +23,16 @@ privacy preserving/enhancing Technique <br/>
 edge AI <br/>
 autosar platform <br/>
 </p>
+
+<br/>
+today I have read this book until the end. <br/>
+but, actually after reading this book once, I dont have many things to write about. <br/>
+because the reason can be my terrible english skill or that I cant get the knowledge and the purpose I want from this book. <br/><br/>
+
+one thing I have in mind is research. <br/>
+by this book, I cant get in-depth knowledge about the AI Operating Systems. <br/>
+but, there are a lot of subjects related with topics that I have been interested in. <br/>
+
+I think there is two direction I can take. <br/>
+one thing is development and other is research but both of them are valuable. <br/>
+but as job seeker for engineer, I think, it will be better to choose the former. 
